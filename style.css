@@ -67,3 +67,17 @@ input {
 .list:hover {
   background: #111;
 }
+.bg-success {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  color: black;
+  background: #ddffdd;
+  border-left: 6px solid #04aa6d;
+}
+.bg-danger {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  color: black;
+  background: #ffdddd;
+  border-left: 6px solid #f44336;
+}
