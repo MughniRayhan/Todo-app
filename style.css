@@ -67,6 +67,7 @@ input {
 .list:hover {
   background: #111;
 }
+
 .bg-success {
   margin: 0.5rem 0;
   padding: 0.5rem;
@@ -79,5 +80,5 @@ input {
   padding: 0.5rem;
   color: black;
   background: #ffdddd;
-  border-left: 6px solid #f44336;
+  border-left: 6px solid #f44336;
 }
